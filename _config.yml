@@ -1,0 +1,13 @@
+title: 'ChatGPT代充平台横评 2026｜GPT Plus代充哪家靠谱？6 家价格·到账·售后对比'
+description: '2026-10-29 逐家核对官网：ChatGPT代充平台 6 家价格、到账、售后、发票对比，非官方。'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-ai-trainer/chatgpt-daichong-pingtai"
